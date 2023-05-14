@@ -1,0 +1,31 @@
+Work 1 (example)
+ Introduction
+  www.google.com
+ Chapter 1
+  www.yandex.com
+  www.yahoo.com
+  www.bing.com
+ Chapter 2
+  sci-hub.wf
+  sfedu.ru
+  habr.com
+  javarush.com
+ Chapter 3
+  https://www.binance.com/ru
+  https://www.bybit.com/ru-RU/
+  https://ru.tradingview.com/chart/
+ Сonclusion
+  ru.wikipedia.org
+Work 2 (example)
+ Articles
+  https://www.elsevier.com/books/disappearing-cryptography/wayner/978-1-55860-769-9
+  https://www.elsevier.com/books/java-cryptography-extensions/weiss/978-0-12-742751-5
+  https://www.elsevier.com/books/cryptography-for-developers/st-denis/978-1-59749-104-4
+ Important
+  https://en.wikipedia.org/wiki/Cryptography
+  https://habr.com/ru/articles/680650/
+  https://www.garykessler.net/library/crypto.html
+ Books
+  https://josipmisko.com/best-cryptography-books
+  https://cybertalents.com/blog/cryptography-books
+  https://cybertalents.com/blog/cryptography-books
